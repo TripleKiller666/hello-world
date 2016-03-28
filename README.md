@@ -1,2 +1,3 @@
-# hello-world
-Just a Test
+Just trying out some Functions on Github.
+
+Nothing too fancy.
